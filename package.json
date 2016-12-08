@@ -1,0 +1,16 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "This is simple Node.js/Express.js server written and tested from scratch. You can find a screen recording of this service being built (with narration) at the following links:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
