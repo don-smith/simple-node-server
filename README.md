@@ -12,7 +12,7 @@ This is simple Node.js/Express.js server written and tested from scratch. You ca
   - `routes.js`
   - `home.html`
   - `public/styles.css`
-* [Adding a Supertest]
+* [Adding a Supertest](https://youtu.be/SA9smKxJ_iU)
   - `npm install tape tap-diff supertest --save-dev`
   - `test` script in `package.json`
   - `mkdir tests`
