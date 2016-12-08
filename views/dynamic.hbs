@@ -1,0 +1,13 @@
+<div class="dynamic">
+  <h1>{{title}}</h1>
+
+  <ul>
+  {{#each colors}}
+    <li>{{id}}: {{name}}
+  {{/each}}
+  </ul>
+
+  {{#if showSecret}}
+    <em>This is a secret</em>
+  {{/if}}
+</div>

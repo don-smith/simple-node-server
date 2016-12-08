@@ -17,7 +17,7 @@ This is simple Node.js/Express.js server written and tested from scratch. You ca
   - `test` script in `package.json`
   - `mkdir tests`
   - `tests/home-test.js`
-* [Adding Handlebars templates]
+* [Adding Handlebars templates](https://youtu.be/HtiVNIW3HvA)
   - `npm instal express-handlebars --save`
   - Add Express/Handlebars middleware
   - `mkdir -p views/layouts`
