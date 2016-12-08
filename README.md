@@ -14,9 +14,9 @@ This is simple Node.js/Express.js server written and tested from scratch. You ca
   - `public/styles.css`
 * [Adding a Supertest]
   - `npm install tape tap-diff supertest --save-dev`
+  - `test` script in `package.json`
   - `mkdir tests`
   - `tests/home-test.js`
-  - `test` script in `package.json`
 * [Adding Handlebars templates]
   - `npm instal express-handlebars --save`
   - Add Express/Handlebars middleware
