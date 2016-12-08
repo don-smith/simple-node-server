@@ -13,7 +13,7 @@ This is simple Node.js/Express.js server written and tested from scratch. You ca
   - `home.html`
   - `public/styles.css`
 * [Adding a Supertest]
-  - `npm install tape tap-spec supertest --save-dev`
+  - `npm install tape tap-diff supertest --save-dev`
   - `mkdir tests`
   - `tests/home-test.js`
   - `test` script in `package.json`
